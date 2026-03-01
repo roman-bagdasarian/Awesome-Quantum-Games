@@ -201,3 +201,6 @@ The games are listed in choronological order but not strictly. (Games listed und
 ## 2023
 
 [TiqTaqToe](tiqtaqtoe.com) - A re-imagined version of the 2018 Quantum TiqTaqToe game, now as a web-based game with multiplayer capabilities and with a strong AI player. Tokens can still be placed in superpositions, can be entangled, and the game runs on quantum hardware (can be selected)! For minimal quantumness, there is a winning strategy for the starting player. Can you find it? (by Evert van Nieuwenburg)
+
+## 2025
+[Q-Chess](https://q-chess.com/) - Quantum chess online. (by Mykóla Matkovski)
